@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Added a line.
 Adding another line.
+=======
+Adding line on local repo.
+>>>>>>> 02a2cbb (Added on local repo)
